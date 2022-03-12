@@ -1,0 +1,97 @@
+
+     .rectangle {
+  height: 50px;
+  width: screen;
+  background: linear-gradient(to bottom left, yellow, red);
+}
+.rectangle {
+    margin-top: 10px;
+    z-index: 1;
+    height: 100px;
+    border-radius: 10px;
+} 
+    
+.img.Plastic {
+width: 10%;
+height: 20%;
+border-radius: 500px;
+position:absolute; right:5%;
+position:absolute; top: 5px;
+border: 1px;
+}
+.img.Plastic {
+    border:5px solid #000000;
+}
+
+.index.img{
+  height:30%;
+  width: 30%;
+  border-radius: 5px;
+  border-color: #000000;
+  border: 5px;
+  float:right;
+  margin: 5px;
+}
+
+.index.img2{
+  height:30%;
+  width: 30%;
+  border-radius: 5px;
+  border-color: #000000;
+  border: 5px;
+  float:left;
+  margin: 5px;
+}
+.index.img3{
+  height:30%;
+  width: 30%;
+  border-radius: 5px;
+  border-color: #000000;
+  border: 5px;
+  float:center;
+  margin: 5px;
+}
+.Main.Para{
+  z-index: 2;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  position: relative;
+}
+body{
+  background: linear-gradient(to bottom left,rgb(0, 46, 146),rgb(0, 119, 255));
+  color: rgb(0, 0, 0);
+}
+.Heading{
+  font-size: 45px;
+  position: relative; top: 5px;
+  font-family:'Times New Roman', Times, serif;
+  color: whitesmoke;
+}
+ul{
+margin-right: 20px;
+}
+ul li{
+  list-style-type: none;
+  display: inline-block;
+}
+ul li a{
+color: #152238;
+text-decoration: none;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: italic;
+font-weight: 50;
+}
+    .Heading {
+        position: relative;
+    } 
+    
+footer {
+  background: linear-gradient(to top left,rgb(0, 46, 146),rgb(214, 219, 224) ) 
+}
+.video{
+
+border-radius: 5px;
+border-color:black;
+
+}
